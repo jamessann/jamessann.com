@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+$media-size-phone: "(max-width: 684px)";
+$media-size-phone-sml: "(max-width: 360px)";
+$media-size-phone-med: "(max-width: 375px)";
+$media-size-tablet: "(max-width: 768px)";
+
+/* variables for js, must be the same as these in @custom-media queries */
+:root {
+  /* Viewports */
+  --phoneWidth: (max-width: 684px);
+  --phoneWidthsml: (max-width: 360px);
+  --phoneWidthmed: (max-width: 375px);
+  --tabletWidth: (max-width: 768px);
+
+  /* Typography */
+  --font-space-mono: 'Space Mono', Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+  --font-ibm-mono: 'IBM Plex Mono', Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+  --font-inter: 'Inter', -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+
+  /* Spacings */
+  --spacing-clear: 0;
+  --spacing-xxs: 0.4rem;
+  --spacing-xs: 0.8rem;
+  --spacing-s: 1.2rem;
+  --spacing-m: 1.6rem;
+  --spacing-l: 2rem;
+  --spacing-xl: 2.4rem;
+  --spacing-xxl: 2.8rem;
+  --spacing-xxxl: 3.2rem;
+
+  /* light theme color */
+  --light-background:             248, 248, 248;
+  --light-background-secondary:   234, 234, 234;
+  --light-text-color:             34, 34, 34;
+  --light-text-color-secondary:   153, 153, 153;
+  --light-border-color:           220, 220, 220;
+  --light-link-hover:             150, 31, 226;
+
+  /* dark theme colors */
+  --dark-background:              32, 36, 40;
+  --dark-background-secondary:    60, 62, 68;
+  --dark-text-color:              241, 241, 241;
+  --dark-text-color-secondary:    159, 179, 198;
+  --dark-text-color-tertiary:     203, 211, 219;
+  --dark-border-color:            74, 75, 80;
+  --dark-purple:                  225, 176, 255;
+
+   /* Shadows */
+   --box-shadow-m: 0px 0.913195px 2.04777px rgba(0, 0, 0, 0.00843437), 0px 2.19453px 4.92108px rgba(0, 0, 0, 0.0121168), 0px 4.13211px 9.26595px rgba(0, 0, 0, 0.015), 0px 7.37098px 16.5289px rgba(0, 0, 0, 0.0178832), 0px 13.7866px 30.9154px rgba(0, 0, 0, 0.0215656), 0px 33px 74px rgba(0, 0, 0, 0.03);
+}

@@ -1,0 +1,20 @@
+<footer>
+    <div class="footer">
+        <div class="footer__left">
+            <span class="copyright">&copy;</span> <span>{{ now.Format "2006" }}・No tracking </span><span class="footer-emoji">✌️</span><span>・Wear a mask</span><span class="footer-emoji"> 😷</span>
+            <!-- {{ if .Site.Author.name }}
+                <span><a href="{{ .Site.BaseURL }}">{{ .Site.Author.name }}</a></span>
+            {{ end }}
+            {{ if .Site.Copyright }}
+                <span>{{ .Site.Copyright| safeHTML }}</span>
+            {{ end }} -->
+            <!-- <span>{{- with (not (in (.Site.Language.Get "disableKinds") "RSS")) }} <a href="{{ "posts/index.xml" | absLangURL }}" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>{{ end }}</span> -->
+    </div>
+    <div class="footer__right">
+         <a href="https://twitter.com/james_sann">Twitter</a>
+         <a href="https://letterboxd.com/hooverdust/">Letterboxd</a>
+         <a href="https://www.linkedin.com/in/jsann/">LinkedIn</a>
+         <a class="svg-icon svg-baseline" href="#top" title="Back to top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-corner-right-up"><polyline points="10 9 15 4 20 9"></polyline><path d="M4 20h7a4 4 0 0 0 4-4V4"></path></svg></a>
+    </div>
+    </div>  
+</footer>

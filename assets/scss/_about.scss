@@ -1,0 +1,119 @@
+.about {
+
+    h1 {
+        text-align: center;
+        margin-bottom: 14rem;
+    }
+
+    &.dark-theme {
+        h3 {
+        color: var(--commodore-purple);
+        }
+    }
+
+    main {
+        text-align: left;
+        padding: 14rem var(--spacing-m) var(--spacing-m) var(--spacing-m);
+    }
+
+    .lead {
+        margin: var(--spacing-xl) 0 var(--spacing-xl) 0;
+    }
+
+    h2 {
+        margin-top: 3.6rem;
+    }
+
+    article {
+
+        img {
+            max-width: 120%;
+            padding: var(--spacing-xs);
+            background-color: white;  
+            box-shadow: var(--box-shadow-m);
+            border-radius: 4px;
+            margin-left: -10%;
+
+            @media #{$media-size-phone} {
+                max-width: 100%;
+                margin-left: 0;
+              }
+          
+            @media #{$media-size-tablet} {
+                max-width: 100%;
+                margin-left: 0;
+            }
+        } 
+
+        span {
+            opacity: 0.6;
+        }
+
+        ul {
+            list-style-position: outside;
+            margin-left: 2rem;
+        }
+    
+    }
+    
+    nav ul li {
+        opacity: 1;
+      }
+ 
+    section {
+        display: grid;
+        max-width: 68rem;
+        margin: 0 auto;
+        // grid-template-columns: 72% 16%;
+        // gap: 12%;
+    
+        aside { 
+          position: sticky;
+          height: 100vh;
+          top: 2rem;
+          padding-top: 0;
+          align-self: start;
+          font-size: 1.6rem;
+
+          a {
+            text-decoration: underline;
+          }
+
+          ul, ol {
+            margin: 0;
+            padding: 0;
+                li {
+                    list-style-type: none;
+                    margin-bottom: var(--spacing-m);
+                }  
+            }
+        }
+    }
+
+    @media #{$media-size-tablet} {
+
+        .content {
+            max-width: 100%;
+            @include word-wrap();
+        }
+      
+        section:first-child {
+        grid-template-columns: auto;
+        grid-template-rows: 1fr;
+
+        aside {
+            display: none;
+        }
+    
+        article {
+            padding: 0;
+    
+            figure img {
+            width: 100%;
+            margin: 0;
+            }
+        }
+        }
+    }
+
+}

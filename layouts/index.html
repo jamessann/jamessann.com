@@ -1,0 +1,49 @@
+{{ define "main" }}
+    <main aria-role="main">
+        <div class="home">
+            {{ if .Site.Params.Portrait.Path }}
+               <img src="{{ .Site.Params.Portrait.Path }}" class="circle" alt="{{ .Site.Params.Portrait.Alt }}" style="max-width:{{ .Site.Params.Portrait.MaxWidth }}" />
+            {{ end }}
+
+            <div class="avatar-home">
+                <span class="avatar-outer">
+                    <img loading="lazy" src="/img/avatar.jpg" alt="James Sann profile" class="circle"></img>
+                </span>
+                <svg width="593" height="374" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0)" stroke-width="1.5"><circle cx="405.316" cy="187.845" r="186.652" transform="rotate(38.507 405.316 187.845)"/><circle cx="396.932" cy="187.812" r="186.652" transform="rotate(38.507 396.932 187.812)"/><circle cx="388.548" cy="187.782" r="186.652" transform="rotate(38.507 388.548 187.782)"/><circle cx="380.164" cy="187.753" r="186.652" transform="rotate(38.507 380.164 187.753)"/><circle cx="371.78" cy="187.721" r="186.652" transform="rotate(38.507 371.78 187.721)"/><circle cx="363.396" cy="187.691" r="186.652" transform="rotate(38.507 363.396 187.691)"/><circle cx="355.011" cy="187.659" r="186.652" transform="rotate(38.507 355.011 187.659)"/><circle cx="346.627" cy="187.629" r="186.652" transform="rotate(38.507 346.627 187.629)"/><circle cx="338.243" cy="187.598" r="186.652" transform="rotate(38.507 338.243 187.598)"/><circle cx="329.859" cy="187.567" r="186.652" transform="rotate(38.507 329.859 187.567)"/><circle cx="321.475" cy="187.536" r="186.652" transform="rotate(38.507 321.475 187.536)"/><circle cx="313.091" cy="187.506" r="186.652" transform="rotate(38.507 313.091 187.506)"/><circle cx="304.707" cy="187.474" r="186.652" transform="rotate(38.507 304.707 187.474)"/><circle cx="296.323" cy="187.443" r="186.652" transform="rotate(38.507 296.323 187.443)"/><circle cx="287.938" cy="187.413" r="186.652" transform="rotate(38.507 287.938 187.413)"/><circle cx="279.554" cy="187.382" r="186.652" transform="rotate(38.507 279.554 187.382)"/><circle cx="271.17" cy="187.352" r="186.652" transform="rotate(38.507 271.17 187.352)"/><circle cx="262.786" cy="187.32" r="186.652" transform="rotate(38.507 262.786 187.32)"/><circle cx="254.402" cy="187.289" r="186.652" transform="rotate(38.507 254.402 187.289)"/><circle cx="246.017" cy="187.259" r="186.652" transform="rotate(38.507 246.017 187.259)"/><circle cx="237.633" cy="187.228" r="186.652" transform="rotate(38.507 237.633 187.228)"/><circle cx="229.249" cy="187.197" r="186.652" transform="rotate(38.507 229.249 187.197)"/><circle cx="220.865" cy="187.166" r="186.652" transform="rotate(38.507 220.865 187.166)"/><circle cx="212.481" cy="187.135" r="186.652" transform="rotate(38.507 212.481 187.135)"/><circle cx="204.097" cy="187.105" r="186.652" transform="rotate(38.507 204.097 187.105)"/><circle cx="195.712" cy="187.074" r="186.652" transform="rotate(38.507 195.712 187.074)"/><circle cx="187.327" cy="187.043" r="186.652" transform="rotate(38.507 187.327 187.043)"/></g><defs><clipPath id="clip0"><path fill="#fff" transform="translate(-540 -166)" d="M0 0h1680v1187H0z"/></clipPath></defs></svg>
+            </div>
+
+        <div class="home-intro">
+            <h2>Currently</h2>
+            <h1>Principal Designer <span class="normal">@</span>
+                <div class="icon baseline">
+                <a href="http://www.myob.com"><svg id="logo" aria-labelledby="logoTitle logoDesc" role="img" viewBox="0 0 102 42" width="102" height="42" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <title id="logoTitle">The MYOB logo</title>
+                        <desc id="logoDesc">The MYOB logo</desc>
+                    <path d="M83.998 0l.004.006C80.17.006 79.56 2.58 79.49 3.84v27.903l2.71-.001c2.172.044 2.676-1.346 2.7-2.128V29.4c1.701 1.79 4.04 2.812 6.675 2.812 5.745 0 10.426-4.95 10.426-11.435 0-6.527-4.681-11.477-10.426-11.477-2.51 0-4.766.939-6.425 2.56V0h-1.151zm1.15 20.82c0-3.497 2.511-6.313 5.618-6.313 3.106 0 5.617 2.73 5.617 6.314 0 3.498-2.51 6.186-5.617 6.186s-5.617-2.773-5.617-6.186zm-68.296-8.49c-1.575-1.92-4-3.114-6.98-3.114-6 0-9.872 4.224-9.872 9.813v12.714h1.83c1.245-.077 3.703-.696 3.787-4.338v-8.504c0-2.475 1.745-4.181 4.256-4.181 3.702 0 4.085 2.944 4.085 4.18v12.843h1.832c1.24-.076 3.683-.692 3.785-4.297V18.9c0-2.475 1.788-4.181 4.256-4.181 3.702 0 4.128 2.944 4.128 4.18v12.843h1.827c1.252-.077 3.731-.7 3.79-4.395v-8.32c0-5.759-3.617-9.812-9.745-9.812-2.851 0-5.32 1.194-6.98 3.114zm38.733 8.448c0 6.57 4.936 11.477 11.021 11.477 6.085 0 11.064-4.907 11.064-11.477S72.69 9.216 66.606 9.216c-6.085 0-11.021 4.992-11.021 11.562zm5.617.043c0-3.797 2.425-6.443 5.404-6.443s5.404 2.646 5.404 6.443c0 3.712-2.425 6.271-5.404 6.271s-5.404-2.56-5.404-6.271zm-11.434-8.615l-4.723 13.122-5.138-13.587C39.13 9.591 37.1 9.708 37.1 9.708h-4.375l8.707 21.348-.02-.068.032.088.032.088-.044-.108c.286.868.202 1.351-.059 2.189l-.19.54c-1.012 2.524-2.437 3.208-5.47 3.037v.018L37.818 42c3.897-.086 6.829-1.361 8.788-6.247L57.085 9.71l.001-.003-3.92-.002h-.015c-.212 0-2.443.058-3.383 2.5z"/></svg>
+                </a>
+            </div>
+            </h1>
+        </div>
+
+        <div class="home-summary">
+            <ul>
+                <li><p>Developing design tool efficiencies for <span>34 designers</span> across three cities.</p></li>
+                <li><p>Researching, exploring, and expanding <span>design system iterations</span>.</p></li>
+                <li><p>Appreciating the simple things and being <span>a present dad and husband</span>.</p></li>
+                <li><p><span>Doing the best I can</span> during COVID-19 & dealing with remote work challenges.</p></li>
+            </ul>
+        </div>
+
+        <div class="portfolio">
+            <div class="button-hero">
+            <a href="mailto:&#106;&#97;&#109;&#101;&#115;&#46;&#115;&#97;&#110;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-mail" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                <path stroke="none" d="M0 0h24v24H0z"/>
+                <rect x="3" y="5" width="18" height="14" rx="2" />
+                <polyline points="3 7 12 13 21 7" />
+              </svg>
+                Portfolio available on request</a>
+            </div>
+        </div>
+    </main>
+{{ end }}

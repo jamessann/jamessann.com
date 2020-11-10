@@ -1,0 +1,10 @@
+<a class="logo" href="{{ if .Site.Params.Logo.LogoHomeLink }}{{ .Site.Params.Logo.LogoHomeLink }}{{else}}{{ .Site.BaseURL }}{{ end }}" style="text-decoration: none;">
+
+        {{ if .Site.Params.Logo.path }}
+            <img src="{{ .Site.Params.Logo.path }}" alt="{{ .Site.Params.Logo.alt }}" />
+        {{ else }}
+        <span class="avatar-outer">
+            <img loading="lazy" src="/img/avatar.jpg" alt="James Sann profile picture" title="James Sann — Principal Designer" class="circle"></img>
+        </span>
+        {{ end }}
+</a>
