@@ -1,7 +1,7 @@
 baseurl      = "https://jamessann.netlify.app/"
 title        = "My Blog"
 languageCode = "en-us"
-theme        = "hugo-theme-hello-friend-ng"
+theme        = "hello-friend-ng"
 paginate     = 10
 
 [params]
@@ -16,7 +16,7 @@ paginate     = 10
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
-  # Enable sharing buttons, if you linke
+  # Enable sharing buttons, if you linked
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
