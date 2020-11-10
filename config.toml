@@ -1,7 +1,7 @@
 baseurl      = "https://jamessann.netlify.app/"
 title        = "My Blog"
 languageCode = "en-us"
-theme        = "hugo-theme-hello-friend-ng"
+theme        = "hello-friend-ng-james"
 paginate     = 10
 
 [params]
