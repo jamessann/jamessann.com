@@ -1,4 +1,4 @@
-baseurl      = "https://jamessann.netlify.app/"
+baseurl      = "https://jamessann-test.netlify.app/"
 title        = "My Blog"
 languageCode = "en-us"
 paginate     = 10
