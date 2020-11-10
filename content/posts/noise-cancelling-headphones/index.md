@@ -4,7 +4,7 @@ date: 2020-10-01T17:21:17+10:00
 # cover: 'blog/noise-cancelling-headphones/bose-headphones.jpg'
 # useRelativeCover: true
 # coverCaption: "Image Credit to [Barry Bluejeans](https://unsplash.com/)"
-draft: false
+draft: true
 ---
 
 <p class="lead">Whether it's working in an open-plan office or working from home, noise cancelling headphones are almost a necessity for deep focus work.</p>
