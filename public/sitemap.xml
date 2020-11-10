@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jamessann.netlify.app/</loc>
+    <lastmod>2020-10-06T17:21:17+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.netlify.app/posts/personal-sites/</loc>
+    <lastmod>2020-10-06T17:21:17+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.netlify.app/posts/</loc>
+    <lastmod>2020-10-06T17:21:17+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.netlify.app/posts/noise-cancelling-headphones/</loc>
+    <lastmod>2020-10-01T17:21:17+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.netlify.app/about/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.netlify.app/recommended/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.netlify.app/posts/ic-roles-vs-management/</loc>
+    <lastmod>2020-07-29T17:21:17+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.netlify.app/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.netlify.app/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.netlify.app/tags/</loc>
+  </url>
+  
+</urlset>
