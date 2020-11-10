@@ -152,12 +152,12 @@
             margin: 0;
 
             li {
-                background: url("/img/bullet-arrow.svg") 0 4px no-repeat;
+                background: url("/img/bullet-arrow.svg") 0 5px no-repeat;
                 margin-bottom: 2rem;
                 padding-left: 3rem;
 
                 .dark-theme & {   
-                    background: url("/img/bullet-arrow-dark.svg") 0 4px no-repeat;
+                    background: url("/img/bullet-arrow-dark.svg") 0 5px no-repeat;
                 }
 
                 span {
