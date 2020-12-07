@@ -41,12 +41,16 @@
 
         h1 {
             font-size: 3.2rem;
-            line-height: 1;
-            margin-top: 2rem;
         }
      }
 
      @media #{$media-size-phone} {
+        padding: 9rem var(--spacing-m) 9rem var(--spacing-m);
+        overflow: hidden;
+
+     }
+
+     @media #{$media-size-phone-med} {
         padding: 9rem var(--spacing-m) 9rem var(--spacing-m);
         overflow: hidden;
 
