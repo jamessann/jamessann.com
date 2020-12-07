@@ -2,7 +2,7 @@
 
 $media-size-phone: "(max-width: 684px)";
 $media-size-phone-sml: "(max-width: 360px)";
-$media-size-phone-med: "(max-width: 375px)";
+$media-size-phone-med: "(max-width: 414px)";
 $media-size-tablet: "(max-width: 768px)";
 
 /* variables for js, must be the same as these in @custom-media queries */
@@ -10,7 +10,7 @@ $media-size-tablet: "(max-width: 768px)";
   /* Viewports */
   --phoneWidth: (max-width: 684px);
   --phoneWidthsml: (max-width: 360px);
-  --phoneWidthmed: (max-width: 375px);
+  --phoneWidthmed: (max-width: 414px);
   --tabletWidth: (max-width: 768px);
 
   /* Typography */
