@@ -13,21 +13,33 @@
   }
 
   img {
-    max-width: 120%;
+    width: 120%;
     padding: var(--spacing-xs);
     background-color: white;  
     box-shadow: var(--box-shadow-m);
     border-radius: 4px;
     margin-left: -10%;
 
-    @media #{$media-size-phone} {
-      max-width: 100%;
-      margin-left: 0;
-    }
+    // @media #{$media-size-phone} {
+    //   max-width: 100%;
+    //   margin-left: 0;
+    // }
 
-    @media #{$media-size-tablet} {
-      max-width: 100%;
-      margin-left: 0;
+    // @media #{$media-size-tablet} {
+    //   max-width: 100%;
+    //   margin-left: 0;
+    // }
+
+    &.full-width {
+      width: 100vw;
+      position: relative;
+      left: 50%;
+      right: 50%;
+      margin-left: -50vw;
+      margin-right: -50vw;
+      padding: 0;  
+      box-shadow: none;
+      border-radius: 0;
     }
   }
 

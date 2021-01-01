@@ -9,7 +9,7 @@ draft: false
 
 <p class="lead">The rise and fall and then rise again of the personal website is a beautiful thing. That little corner of the world to express yourself, without the bounds of industry pressure, without hiding behind paywalls, without giving your information away to another entity, to just divulge what interests you... it's incredibly calming.</p>
 
-{{< figure src="personal-site.png" alt="Illustration of woman and her dog working on her personal website" caption="Working away on those personal sites with good doggos. Illustration by" attrlink="https://www.drawkit.io/" attr="Drawkit" >}}
+{{< figure src="personal-site.png" class="full-width" alt="Illustration of woman and her dog working on her personal website" caption="Working away on those personal sites with good doggos. Illustration by" attrlink="https://www.drawkit.io/" attr="Drawkit" >}}
 
 <p><a href="https://www.theguardian.com/technology/2019/mar/12/tim-berners-lee-on-30-years-of-the-web-if-we-dream-a-little-we-can-get-the-web-we-want">Tim Berners-Lee</a> always envisioned an open web and a personal site gives you the ultimate freedom of expression. For years, I've had a personal site in various incarnations that eventually fell to the wayside of microblogging platforms like Twitter & Instagram, etc... Life evolved too. I got married, had a son, and time became more precious than ever. However, despite all of this, it always felt like I was missing a purity and sense of self when not designing and building my own site from scratch. Those people that do struggle with a personal site know that feeling well.</p>
 

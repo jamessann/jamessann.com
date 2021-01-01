@@ -25,6 +25,7 @@ body {
   -webkit-text-size-adjust: 100%;
   position: relative;
   min-height: 100vh;
+  overflow-x: hidden;
 
   display: flex;
   // min-height: 100vh;
@@ -192,7 +193,7 @@ article li {
 
 img {
   display: block;
-  max-width: 100%;
+  // max-width: 100%;
 
   &.left {
     margin-right: auto;
@@ -213,9 +214,10 @@ img {
   }
 }
 
+
 figure {
-  display: table;
-  max-width: 100%;
+  // display: table;
+  // max-width: 100%;
   margin: var(--spacing-xxxl) 0;
 
   &.left {
@@ -282,6 +284,15 @@ figure {
       text-align: right;
     }
   }
+}
+
+.full-width {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
 code {
