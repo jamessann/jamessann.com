@@ -217,6 +217,12 @@
       text-decoration: none;
       font-weight: bold;
     }
+
+    .button {
+      @media #{$media-size-phone} {
+        max-width: 40%;
+      }
+    }
   }
 }
 
@@ -229,7 +235,7 @@
   font-size: 1.6rem;
   font-weight: 600;
   border-radius: 35px;
-  max-width: 40%;
+  max-width: 100%;
   padding: 0 0.8rem 0 0.8rem;
   cursor: pointer;
   appearance: none;
@@ -260,6 +266,7 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
+    
   }
 
   &__text {
