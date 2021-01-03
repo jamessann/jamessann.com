@@ -39,9 +39,7 @@
   // }
 
   &-group {
-    display: flex;
-    margin-bottom: var(--spacing-m);
-    line-height: normal;
+    margin-bottom: 6.4rem;
 
     @media #{$media-size-tablet} {
       display: block;
