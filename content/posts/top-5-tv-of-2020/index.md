@@ -1,9 +1,6 @@
 ---
 title: "Top 5 TV of 2020"
 date: 2021-01-02T17:21:17+10:00
-# cover: 'blog/noise-cancelling-headphones/bose-headphones.jpg'
-# useRelativeCover: true
-# coverCaption: "Image Credit to [Barry Bluejeans](https://unsplash.com/)"
 draft: false
 ---
 
@@ -27,7 +24,7 @@ draft: false
 <h2>4. The Mandalorian (Season 2)</h2>
 <h4><em>Disney+</em></h4>
 
-<p>The Mandalorian season one made its way into my Top 5 last year but I think season two improves upon it in every way. This season felt more action-packed yet still maintained that episodic comic-book sense of what made the original <em>Star Wars</em> trilogy so legendary. The pacing is spot on, the characters are interesting, and of course, that ending was incredible. I'm unsure how many spin-off's I'll watch from Disney but I'll be sticking with <em>The Mandalorian</em> indefinitely if it keeps this up yo!.</p>
+<p>The Mandalorian season one made its way into my Top 5 last year but I think season two improves upon it in every way. This season felt more action-packed yet still maintained that episodic comic-book sense of what made the original <em>Star Wars</em> trilogy so legendary. The pacing is spot on, the characters are interesting, and of course, that ending was incredible. I'm unsure how many spin-off's I'll watch from Disney but I'll be sticking with <em>The Mandalorian</em> indefinitely if it keeps this up.</p>
 
 <span class="button">
     <a href="https://www.youtube.com/watch?v=eW7Twd85m2g">
