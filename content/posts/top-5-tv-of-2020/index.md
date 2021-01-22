@@ -4,7 +4,7 @@ date: 2021-01-02T17:21:17+10:00
 draft: false
 ---
 
-<p class="lead">Despite a global pandemic, 2020 delivered some fine binge-watching. These are my top 5 favourite watches of the year, and as always, these lists are subjective to my own tastes. It surprised me to have two shows focused on sports since I'm not much of a sports fan but when something really captures lightning in a bottle... well... who cares. There's still a plethora of shows I need to catch up on that would probably end up changing these listings but best-laid plans.</p>
+<p class="lead">Despite a global pandemic, 2020 delivered some fine binge-watching. These are my top 5 favourite watches of the year, and as always, these lists are subjective to my own tastes. It surprised me to have two shows focused on sports since I'm not much of a sports fan but when something really captures lightning in a bottle... well... who cares. There's still a plethora of shows I need to catch up on that would probably end up changing these listings but best-laid plans yes.</p>
 
 {{< figure src="the-outsider-s1.jpg" class="lrg-width" alt="Ben Mendelsohn and Cynthia Erivo from The Outsider, the HBO series" >}}
 
