@@ -4,14 +4,14 @@ date: 2021-01-02T17:21:17+10:00
 draft: false
 ---
 
-<p class="lead">Despite a global pandemic, 2020 delivered some fine binge-watching. These are my top 5 favourite watches of the year, and as always, these lists are subjective to my own tastes. It surprised me to have two shows focused on sports since I'm not much of a sports fan but when something really captures lightning in a bottle... well... who cares. There's still a plethora of shows I need to catch up on that would probably end up changing these listings but best-laid plans yes.</p>
+<p class="lead">Despite a global pandemic, 2020 delivered some fine binge-watching. These are my top 5 favourite watches of the year, and as always, these lists are subjective to my own tastes. It surprised me to have two shows focused on sports since I'm not much of a sports fan but when something really captures lightning in a bottle... well... who cares. There's still a plethora of shows I need to catch up on that would probably end up changing these listings but best-laid plans.</p>
 
 {{< figure src="the-outsider-s1.jpg" class="lrg-width" alt="Ben Mendelsohn and Cynthia Erivo from The Outsider, the HBO series" >}}
 
 <h2>5. The Outsider (Season 1)</h2>
 <h4><em>HBO</em></h4>
 
-<p>Stephen King has had a massive resurgence in film and television as of late but The Outsider is mostly an A-grade King interpretation. And it's creepy as fuck. Annnnnd okay, so it doesn't entirely land its conclusion but with two fantastic central performances from Ben Mendelsohn and Cynthia Erivo and on the premium cable network, you know it's worth a binge. It's a bit of a shame season two was cancelled by HBO despite the huge viewer numbers but season one is a dark, scary, intriguing mystery that will keep you hooked from episode one</p>
+<p>Stephen King has had a massive resurgence in film and television as of late but The Outsider is mostly an A-grade King interpretation. And it's creepy as fuck. Annnnnd okay, so it doesn't entirely land its conclusion but with two fantastic central performances from Ben Mendelsohn and Cynthia Erivo and on the premium cable network, you know it's worth a binge. It's a bit of a shame season two was cancelled by HBO despite the huge viewer numbers but season one is a dark, scary, intriguing mystery that will keep you hooked from episode one.</p>
 
 <span class="button">
     <a href="https://www.youtube.com/watch?v=eNDKWr3Xmjk&t=4s">
