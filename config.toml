@@ -1,5 +1,5 @@
-baseurl      = "https://jamessann-test.netlify.app/"
-title        = "My Blog"
+baseurl      = "https://jamessann.com"
+title        = "James Sann — Personal site"
 languageCode = "en-us"
 paginate     = 10
 
