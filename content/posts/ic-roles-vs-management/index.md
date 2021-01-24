@@ -1,7 +1,7 @@
 ---
 title: "IC Roles vs Management"
 date: 2020-07-29T17:21:17+10:00
-draft: false
+draft: true
 ---
 
 <p class="lead">Whether it's working in an open-plan office or working from home, noise cancelling headphones are almost a necessity for deep focus work.</p>
