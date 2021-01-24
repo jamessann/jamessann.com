@@ -24,6 +24,10 @@
             top: .35em;
             margin-left: 0.8rem;
             position: relative;
+
+            @media #{$media-size-phone} {
+                margin-left: -0.8rem;
+             }
         }
     }
 
@@ -47,7 +51,6 @@
      @media #{$media-size-phone} {
         padding: 9rem var(--spacing-m) 9rem var(--spacing-m);
         overflow: hidden;
-
      }
 
      @media #{$media-size-phone-med} {

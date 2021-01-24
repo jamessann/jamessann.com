@@ -11,7 +11,7 @@ draft: false
 <h2>5. The Outsider (Season 1)</h2>
 <h4><em>HBO</em></h4>
 
-<p>Stephen King has had a massive resurgence in film and television as of late but The Outsider is mostly an A-grade King interpretation. And it's creepy as fuck. Annnnnd okay, so it doesn't entirely land its conclusion but with two fantastic central performances from Ben Mendelsohn and Cynthia Erivo and on the premium cable network, you know it's worth a binge. It's a bit of a shame season two was cancelled by HBO despite the huge viewer numbers but season one is a dark, scary, intriguing mystery that will keep you hooked from episode one.</p>
+<p>Stephen King has had a massive resurgence in film and television as of late but <em>The Outsider</em> is mostly an A-grade King interpretation. And it's creepy as fuck. Annnnnd okay, so it doesn't entirely land its conclusion but with two fantastic central performances from Ben Mendelsohn and Cynthia Erivo and on the premium cable network, you know it's worth a binge. It's a bit of a shame season two was cancelled by HBO despite the huge viewer numbers but season one is a dark, scary, intriguing mystery that will keep you hooked from episode one.</p>
 
 <span class="button">
     <a href="https://www.youtube.com/watch?v=eNDKWr3Xmjk&t=4s">
@@ -24,7 +24,7 @@ draft: false
 <h2>4. The Mandalorian (Season 2)</h2>
 <h4><em>Disney+</em></h4>
 
-<p>The Mandalorian season one made its way into my Top 5 last year but I think season two improves upon it in every way. This season felt more action-packed yet still maintained that episodic comic-book sense of what made the original <em>Star Wars</em> trilogy so legendary. The pacing is spot on, the characters are interesting, and of course, that ending was incredible. I'm unsure how many spin-off's I'll watch from Disney but I'll be sticking with <em>The Mandalorian</em> indefinitely if it keeps this up.</p>
+<p><em>The Mandalorian</em> season one made its way into my Top 5 last year but I think season two improves upon it in every way. This season felt more action-packed yet still maintained that episodic comic-book sense of what made the original <em>Star Wars</em> trilogy so legendary. The pacing is spot on, the characters are interesting, and of course, that ending was incredible. I'm unsure how many spin-off's I'll watch from Disney but I'll be sticking with <em>The Mandalorian</em> indefinitely if it keeps this up.</p>
 
 <span class="button">
     <a href="https://www.youtube.com/watch?v=eW7Twd85m2g">
