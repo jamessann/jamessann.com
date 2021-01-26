@@ -19,7 +19,7 @@ paginate     = 10
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "Personal site of James Sann"
   keywords = "homepage, blog"
 
 
@@ -46,6 +46,9 @@ paginate     = 10
     category = "blog"
     tag      = "tags"
     series   = "series"
+
+[social]
+	twitter = "james_sann"
 
 [languages]
   [languages.en]

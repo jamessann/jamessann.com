@@ -2,8 +2,7 @@
 title: "Top 5 Albums of 2020"
 date: 2021-01-26T13:21:17+10:00
 cover: 'posts/top-5-albums-of-2020/2020-albums-cover.jpg'
-twImage: 'posts/top-5-albums-of-2020/2020-albums-cover.jpg'
-useRelativeCover: false
+useRelativeCover: true
 draft: false
 ---
 
