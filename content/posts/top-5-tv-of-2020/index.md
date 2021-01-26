@@ -1,6 +1,8 @@
 ---
 title: "Top 5 TV of 2020"
 date: 2021-01-23T17:21:17+10:00
+cover: 'posts/top-5-tv-of-2020/2020-tv-cover.jpg'
+useRelativeCover: true
 draft: false
 ---
 
