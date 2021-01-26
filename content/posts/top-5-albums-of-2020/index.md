@@ -6,9 +6,9 @@ useRelativeCover: true
 draft: false
 ---
 
-<p class="lead">2020 was certainly a year of lockdown album releases. Taylor Swift released not one but two complete albums with the help of The National band members, one of my favourite bands Fleet Foxes returned with Shore, but to be perfectly honest, nothing clearly stood out as a great year in new music. In fact, many of my favourite artists released new music in 2020 but not many of them stuck with me.</p> 
+<p class="lead">2020 was certainly a year of lockdown album releases. <em>Taylor Swift</em> released not one but two complete albums with the help of <em>The National</em> band members, one of my favourite bands <em>Fleet Foxes</em> returned with Shore, but to be perfectly honest, nothing clearly stood out as a great year in new music. In fact, many of my favourite artists released new music in 2020 but not many of them stuck with me.</p> 
 
-<p class="lead">If there was one positive light to gain from 2020 it was some of my favourite artists connecting with their fans via social media with free live streams during lockdown. Especially at the beginning of the pandemic, when things were so raw, uncertain and unhinged, there was a lot of comfort being shared. Music has that power.... So here's a few of my favourites and then my Top 5 albums of 2020.</p>
+<p>If there was one positive light to gain from 2020 it was some of my favourite artists connecting with their fans via social media with free live streams during lockdown. Especially at the beginning of the pandemic, when things were so raw, uncertain and unhinged, there was a lot of comfort being shared. Music has that power.... So here's a few of my favourites and then my Top 5 albums of 2020.</p>
 
 <br>
 <h2>Lockdown musical moments</h2>
