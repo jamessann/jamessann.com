@@ -49,7 +49,3 @@ draft: false
     <li><a href="https://arrowfilms.com/product-detail/thief-blu-ray/FCD1049">Arrow also released a fantastic set</a> featuring both Theatrical and remastered Director's Cuts. This is my pick.</li>
     <li>At the time of writing, streaming on <a href="https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJTdGFuIiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJBVUQiLCJwcmljZSI6MCwib3JpZ2luYWxQcmljZSI6MCwiYXVkaW9MYW5ndWFnZSI6IiIsInN1YnRpdGxlTGFuZ3VhZ2UiOiIiLCJjaW5lbWFJZCI6MCwic2hvd3RpbWUiOiIiLCJpc0Zhdm9yaXRlQ2luZW1hIjpmYWxzZSwicGFydG5lcklkIjo2LCJwcm92aWRlcklkIjoyMSwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJ0aXRsZUlkIjoxMjU3NjQsIm9iamVjdFR5cGUiOiJtb3ZpZSIsImp3RW50aXR5SWQiOiJ0bTEyNTc2NCIsInNlYXNvbk51bWJlciI6MCwiZXBpc29kZU51bWJlciI6MH19XX0&r=https%3A%2F%2Fplay.stan.com.au%2Fprograms%2F331114&uct_country=au">Stan in Australia</a>.</li>
 </ul>
-
-<div class="applause">
-    <applause-button url="jamessann.com/posts/cinematic-gems-thief-1981" style="width: 64px; height: 64px;"/>
-</div>
