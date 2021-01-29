@@ -32,6 +32,8 @@
 {{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
+<script src="/js/applause-button.js"></script>
+
 {{ range $val := $.Site.Params.customCSS }}
     {{ if gt (len $val) 0 }}
         <link rel="stylesheet" type="text/css" href="{{ $val }}">

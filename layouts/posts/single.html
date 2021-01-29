@@ -79,10 +79,15 @@
       {{- end }} -->
     </div>
 
+    <div class="applause">
+      <applause-button style="width: 64px; height: 64px;"/>
+    </div>
+
     {{- if .Site.Params.EnableSharingButtons }}
       <div class="sharing-buttons">
         {{ partial "sharing-buttons.html" . }}
       </div>
+
     {{- end }}
 
     {{ if and (not $.Site.Params.DisableReadOtherPosts) (or .NextInSection .PrevInSection) }}
