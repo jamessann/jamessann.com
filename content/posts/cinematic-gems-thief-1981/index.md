@@ -22,7 +22,7 @@ draft: false
 <br>
 <h2>Why you should see it</h2>
 
-<p>It still boggles my mind that <em>Thief (1981)</em> was director Michael Mann's feature film debut.  It has all the cinematic virtues you'd expect from a seasoned director — A great script, atmospheric cinematography, excellent performances, and a seminal film score (by Tangerine Dream). Although Mann has gone to make other higher-profile and arguably more polished works including <em>Manhunter (1986)</em>, <em>Heat (1995)</em>, <em>The Insider (1999)</em>, and <em>Collateral (2004)</em>, it's hard not to feel like the quaint nature of the film is also its greatest asset.</p>
+<p>It still boggles my mind that <em>Thief (1981)</em> was director Michael Mann's feature film debut.  It has all the cinematic virtues you'd expect from a seasoned director — A great script, atmospheric cinematography, excellent performances, and a seminal film score (by Tangerine Dream). Although Mann has gone on to make other higher-profile and arguably more polished works including <em>Manhunter (1986)</em>, <em>Heat (1995)</em>, <em>The Insider (1999)</em>, and <em>Collateral (2004)</em>, it's hard not to feel like the quaint nature of the film is also its greatest asset.</p>
 
 {{< figure src="thief-1981-widescreen-04-cover.jpg" class="xl-width" alt="The diner scene, in Thief 1981" >}}
 
