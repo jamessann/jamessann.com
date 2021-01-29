@@ -24,7 +24,7 @@ draft: false
 
 <p>It still boggles my mind that <em>Thief (1981)</em> was director Michael Mann's feature film debut.  It has all the cinematic virtues you'd expect from a seasoned director — A great script, atmospheric cinematography, excellent performances, and a seminal film score (by Tangerine Dream). Although Mann has gone to make other higher-profile and arguably more polished works including <em>Manhunter (1986)</em>, <em>Heat (1995)</em>, <em>The Insider (1999)</em>, and <em>Collateral (2004)</em>, it's hard not to feel like the quaint nature of the film is also its greatest asset.</p>
 
-{{< figure src="thief-1981-widescreen-04.jpg" class="xl-width" alt="The diner scene, in Thief 1981" >}}
+{{< figure src="thief-1981-widescreen-04-cover.jpg" class="xl-width" alt="The diner scene, in Thief 1981" >}}
 
 <p>Hands down, this is my favourite James Caan performance outside of <em>The Godfather</em>. He perfectly embodies Frank's tough personification. Just like in this film's spiritual connection - <em>Heat (1995)</em>, the film has a diner scene all about character building. It's one of those moments to let the actor truly shine and Caan nails it. Also, watch for a cameo from Willy Nelson. Yes that Willie Nelson... He's actually incredible in this. The film is also the debut of actors Dennis Farina, William Petersen, James Belushi, and Robert Prosky (particularly great here).</p>
 
