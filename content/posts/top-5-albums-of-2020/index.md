@@ -35,7 +35,7 @@ draft: false
 
 <br><br>
 
-{{< figure src="caribou-suddenly.jpg" alt="Caribou - Suddenly" >}}
+{{< figure src="caribou-suddenly.jpg" class="m-width" alt="Caribou - Suddenly" >}}
 <h2>5. Caribou - Suddenly</h2>
 
 <p>Dan Snaith had apparently 900 "draft ideas" for his 12 track 10th album. Holy crap that's a lot of music to whittle down! But it's also probably the more upbeat albums on my list for 2020. And we needed that in-between the rest. Snaith sings on all the tracks this time around too with a greater emphasis on melody and hooks than his previous records. Standout tracks include "You and I", "New Jade", "Never Come Back", and "Home". </p>
@@ -44,7 +44,7 @@ draft: false
 
 <br><br><br>
 
-{{< figure src="perfume-genius-smhofi.jpg" alt="Perfume Genius - Set My Heart on Fire Immediately" >}}
+{{< figure src="perfume-genius-smhofi.jpg" class="m-width" alt="Perfume Genius - Set My Heart on Fire Immediately" >}}
 <h2>4. Perfume Genius - Set My Heart on Fire Immediately</h2>
 
 <p>I first heard Perfume Genius' music last year in the film <em>Booksmart</em> featuring the track "Slip Away" from his 1997 record <em>No Shape</em>. That album was really solid but on this fifth record, Mike Hadreas brings in the heavy weights of the musical world to help achieve his vision and it's pretty damn magical. Bigger gestures, fully melodic and grander in many ways, his homages to 80's pop and artists like Morrisey and the Cocteau Twins are evident throughout but he makes it all sound fresh. Standout tracks include "On the Floor", "Whole Life", and "Jason".</p>
@@ -53,7 +53,7 @@ draft: false
 
 <br><br><br>
 
-{{< figure src="four-tet-sixteen-oceans.jpg" alt="Four Tet - Sixteen Oceans" >}}
+{{< figure src="four-tet-sixteen-oceans.jpg" class="m-width" alt="Four Tet - Sixteen Oceans" >}}
 <h2>3. Four Tet - Sixteen Oceans</h2>
 
 <p>I've always been a fan of ambient music that crosses genres including house, techno and electronica. You go from kinetic energy of dance to a lush musical landscape in seconds and then back again and it's goosebump worthy. Yes please. Kieran Hebden has fashioned a great 2020 record, with tracks like "Teenage Birdsong", "Harpsichord" and the Ellie Goulding assisted “Baby” particular highlights.</p>
@@ -62,7 +62,7 @@ draft: false
 
 <br><br><br>
 
-{{< figure src="waxahatchee-saint-cloud.jpg" alt="Waxahatchee - Saint Cloud" >}}
+{{< figure src="waxahatchee-saint-cloud.jpg" class="m-width" alt="Waxahatchee - Saint Cloud" >}}
 <h2>2. Waxahatchee - Saint Cloud</h2>
 
 <p>Comparisons to Bob Dylan are apt for Katie Crutchfield's evolution to Americana from her indie rock roots. Her songwriting comes from a place of earned integrity with her sobriety in this record. It's an album of newfound appreciation and life and love lessons learned. I love that it's mostly just her vocals, a guitar, and excellent songwriting that bring you back, time and time again.</p>
@@ -71,7 +71,7 @@ draft: false
 
 <br><br><br>
 
-{{< figure src="phoebe-bridgers-punisher.jpg" alt="Phoebe Bridgers - Punisher" >}}
+{{< figure src="phoebe-bridgers-punisher.jpg" class="m-width" alt="Phoebe Bridgers - Punisher" >}}
 <h2>1. Phoebe Bridgers - Punisher</h2>
 
 <p>Almost no better album summarises 2020 than this devastatingly intimate second record from <em>Phoebe Bridgers</em>. If you're a fan of <em>Elliot Smith</em> and <em>The National</em>, you'll see similar themes run throughout — Self-doubt, depression, love, growth, and feelings of isolation and loneliness. In fact, the title track 'Punisher' is an imaginary fan conversation with her long time admiration of Elliot Smith, whom she never met. So personal is this record that she almost self-titled it but in the end she thought "Punisher" just sounded 'cooler'. It's not a light record that's for sure but neither was 2020 and this record was the perfect ode to all the feelings that came along with it.</p>
