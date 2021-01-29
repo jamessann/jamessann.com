@@ -1,5 +1,5 @@
 ---
-title: "Cinematic Gems — Thief 1981"
+title: "Cinematic Gems — Thief (1981)"
 date: 2021-01-28T17:54:17+10:00
 cover: 'posts/cinematic-gems-thief-1981/thief-1981-widescreen-04-cover.jpg'
 useRelativeCover: true
