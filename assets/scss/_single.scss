@@ -30,9 +30,39 @@
       margin-left: 0;
     }
 
+    &.m-width {
+      width: 100%;
+      margin: 0;
+
+      @media #{$media-size-phone} {
+        max-width: 100%;
+        margin-left: 0;
+      }
+  
+      @media #{$media-size-tablet} {
+        max-width: 100%;
+        margin-left: 0;
+      }
+    }
+
     &.lrg-width {
       width: 160%;
       margin: 10rem 0 0 -30%;
+
+      @media #{$media-size-phone} {
+        max-width: 100%;
+        margin-left: 0;
+      }
+  
+      @media #{$media-size-tablet} {
+        max-width: 100%;
+        margin-left: 0;
+      }
+    }
+
+    &.xl-width {
+      width: 160%;
+      margin: 2rem 0 0 -30%;
 
       @media #{$media-size-phone} {
         max-width: 100%;
