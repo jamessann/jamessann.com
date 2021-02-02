@@ -50,7 +50,7 @@ draft: false
 
 <h2>2. Minari</h2>
 
-<p>Films like these ALWAYS flaw me. Films that touch you on a very human level with forever be my favourites. Beautifully shot, directed, performed, and scored, <em>Minari</em> is a simple yet powerful story of Korean immigrants moving to America in the 1980s. Those little moments with family are everything and there are plenty of touching moments throughout. You'll laugh, you'll cry, you'll feel every bit of struggle in this family's cultural assimilation. A timeless story, yet so perfectly timely. Steven Yeun, who is probably most known as Glenn from the original <em>The Walking Dead</em> series is fantastic here but so is the entire cast from the little kids to the grandmother.</p>
+<p>Films like these ALWAYS floor me. Films that touch you on a very human level with forever be my favourites. Beautifully shot, directed, performed, and scored, <em>Minari</em> is a simple yet powerful story of Korean immigrants moving to America in the 1980s. Those little moments with family are everything and there are plenty of touching moments throughout. You'll laugh, you'll cry, you'll feel every bit of struggle in this family's cultural assimilation. A timeless story, yet so perfectly timely. Steven Yeun, who is probably most known as Glenn from the original <em>The Walking Dead</em> series is fantastic here but so is the entire cast from the little kids to the grandmother.</p>
 
 <span class="button">
     <a href="https://www.youtube.com/watch?v=KQ0gFidlro8">
