@@ -18,9 +18,9 @@ draft: false
 
 <p>So I saved up, purchased a relatively affordable <a href="https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-6500-body-kit">a mirrorless 4k camera</a>, a couple of second-hand fast lenses, and off our adventures began. From the very first steps to priceless moments with grandparents and cousins, to little explorations into nature, I was being present whilst also capturing all those firsts I wanted to cherish forever.  I'd then take all those moments, cut them together, lay music on top, and share them with family. To see family grin from ear to ear, to watch them over and over, or the occasional tear roll down their face means the world. As a side benefit, it's also been incredibly rewarding and peaceful, almost meditative, to make these little films after long days at work and during a pandemic. I take comfort in knowing it's one of the most productive uses of my downtime.</p>
 
-<p>As much as I've love to share the films on this site, those are best kept for families' eyes only. Instead, here are a few screen-grabs of said little cinematic tales...</p>
+<p>As much as I'd love to share the films on this site, those are best kept for families' eyes only. Instead, here are a few screen-grabs of said little cinematic tales...</p>
 
-<p>Tales of the past and tales to come...</p>
+<p>Tales of past and tales to come...</p>
 
 {{< figure src="hoops-01-opt.jpg" class="xl-width" alt="Close up on toddler looking into camera in front of flower wall" >}}
 {{< figure src="hoops-02-opt-cover.jpg" class="xl-width" alt="Toddler holding hands with grandparent through a green field" >}}
