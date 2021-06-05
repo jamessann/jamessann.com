@@ -53,13 +53,13 @@ paginate     = 10
 [languages]
   [languages.en]
     title = "James Sann"
-    subtitle = "Principal Designer"
-    keywords = "Product Designer, Creative Direction, Visual Designer, Design Leadership"
+    subtitle = "Senior Product Designer — Design Systems"
+    keywords = "Product Designer, Design Systems, Creative Direction, Visual Designer, Design Leadership"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "James Sann. Principal Designer."
+      logoText = "James Sann. Senior Product Designer — Design Systems."
       logoHomeLink = "/"
     # or
     #
