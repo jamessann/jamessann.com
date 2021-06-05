@@ -25,7 +25,7 @@
             margin-left: 0.8rem;
             position: relative;
 
-            @media #{$media-size-phone} {
+            @media #{$media-size-phone-med} {
                 margin-left: 0;
              }
         }
